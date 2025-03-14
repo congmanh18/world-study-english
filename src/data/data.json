@@ -1,41 +1,41 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "World Study English",
+    "paragraph": "Chào mừng đến với World Study English, nơi trẻ em được khám phá và học tiếng Anh một cách tự nhiên, sáng tạo và hiệu quả. Chúng tôi cung cấp các khóa học đa dạng phù hợp với từng độ tuổi và trình độ."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "World Study English là câu lạc bộ tiếng Anh dành cho trẻ em, giúp các bé phát triển kỹ năng giao tiếp tự tin và yêu thích ngôn ngữ ngay từ nhỏ. Phương pháp giảng dạy sinh động, kết hợp giữa học và chơi, mang lại trải nghiệm học tập thú vị và hiệu quả.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Phương pháp học sáng tạo: Chương trình giảng dạy kết hợp giữa hoạt động vui chơi, kể chuyện, âm nhạc và thực hành thực tế",
+      "Giáo viên tận tâm: Đội ngũ giáo viên giàu kinh nghiệm, nhiệt huyết và yêu trẻ.",
+      "Môi trường thân thiện: Không gian học tập hiện đại, an toàn và đầy cảm hứng cho bé.",
+      "Lộ trình học rõ ràng: Từ cơ bản đến nâng cao, giúp bé phát triển kỹ năng nghe, nói, đọc, viết theo từng giai đoạn"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "World Study English is a class for learning English. We offer a variety of courses to suit your needs.",
+      "World Study English is a class for learning English. We offer a variety of courses to suit your needs.",
+      "World Study English is a class for learning English. We offer a variety of courses to suit your needs.",
+      "World Study English is a class for learning English. We offer a variety of courses to suit your needs."
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Các bé hào hứng trong lớp học tiếng Anh",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Giáo viên và học sinh cùng thực hành giao tiếp",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Lớp học với không gian vui nhộn và sáng tạo",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Hoạt động nhóm giúp bé học tiếng Anh tự nhiên.",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
@@ -68,18 +68,18 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Tiếng Anh Mầm non (3-6 tuổi)",
+      "text": "Làm quen với tiếng Anh qua bài hát, truyện tranh và trò chơi. Học phát âm chuẩn ngay từ nhỏ. Xây dựng nền tảng ngữ âm và từ vựng cơ bản."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Tiếng Anh Tiểu học (6-11 tuổi)",
+      "text": "Phát triển kỹ năng nghe – nói – đọc – viết. Học ngữ pháp và từ vựng theo chủ đề gần gũi. Luyện phản xạ giao tiếp qua các tình huống thực tế."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Tiếng Anh Giao tiếp (8-12 tuổi)",
+      "text": "Rèn luyện phản xạ nói tự nhiên. Tham gia các hoạt động nhóm, thuyết trình và tranh luận. Xây dựng sự tự tin khi sử dụng tiếng Anh."
     },
     {
       "icon": "fa fa-language",
@@ -100,85 +100,85 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Tôi rất hài lòng với kết quả học tập của con tôi. Tiếng Anh của con tôi đã tiến bộ đáng kể sau khi tham gia World Study English.\"",
+      "name": "Anh Mạnh"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Con tôi rất thích học tiếng Anh tại World Study English. Giáo viên dễ thương và chương trình học đa dạng, thú vị.\"",
+      "name": "Chị Thảo"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Bé tôi đã học tiếng Anh tại World Study English trong 6 tháng và đã tiến bộ đáng kể. Tôi rất tự hào về kết quả của con tôi.\"",
+      "name": "Anh Tân"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Con tôi đã học tiếng Anh tại World Study English trong 6 tháng và đã tiến bộ đáng kể. Tôi rất tự hào về kết quả của con tôi.\"",
+      "name": "Chị Huyền"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Chương trình học tiếng Anh của World Study English rất phù hợp với độ tuổi của con tôi. Con tôi học tiếng Anh dễ dàng và thú vị.\"",
+      "name": "Anh Ký"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Học tiếng Anh tại World Study English là một trải nghiệm tuyệt vời. Con tôi học tiếng Anh dễ dàng và thú vị.\"",
+      "name": "Anh Khôi"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Nguyễn Thị Minh Anh",
+      "job": "Giáo viên"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Nguyễn Văn Tân",
+      "job": "Giáo viên"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Nguyễn Thị Huyền",
+      "job": "Giáo viên"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Nguyễn Văn Khôi",
+      "job": "Giáo viên"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "123 Nguyễn Văn Cừ, P. 15, Q. Bình Thạnh, TP. HCM",
+    "phone": "+84 909 090 909",
+    "email": "info@worldstudyenglish.com",
+    "facebook": "https://www.facebook.com/worldstudyenglish",
+    "twitter": "https://www.facebook.com/worldstudyenglish",
+    "youtube": "https://www.facebook.com/worldstudyenglish"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Giáo viên chất lượng",
+      "text": "Giáo viên tận tâm, giàu kinh nghiệm và yêu trẻ."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Chương trình học đa dạng",
+      "text": "Chương trình học đa dạng, thú vị và phù hợp với độ tuổi của trẻ."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Không gian học tập hiện đại",
+      "text": "Không gian học tập hiện đại, an toàn và đầy cảm hứng cho bé."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Học tiếng Anh tự nhiên",
+      "text": "Học tiếng Anh tự nhiên, dễ dàng và thú vị."
     }
   ]
 }
